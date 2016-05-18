@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "Andrey Zhelnin",
+    "enableMultiJS": false,
+    "longName": "myWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/projectlogo.png",
+                "menuIcon": true,
+                "name": "IMAGE_PROJECT_LOGO",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "myWatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "8c732b14-a2ed-4ebe-a812-97055f72f27e",
+    "versionLabel": "0.5",
+    "watchapp": {
+        "watchface": true
+    }
+}
